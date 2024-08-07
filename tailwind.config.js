@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        customGreen: '#FFEBD4',
-        customGray: '#F0A8D0',
-        customBlue: '#FFC6C6',
-        customPink: '#F7B5CA',
+        customGreen: '#FEF3E2',
+        customGray: '#BEC6A0',
+        customBlue: '#FEF3E2',
+        customPink: '#FEF3E2',
       },
     },
   },
